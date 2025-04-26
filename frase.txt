@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hoje estÃ¡ nublado.
+=======
+"Hoje est  chuvoso." 
+>>>>>>> feature
