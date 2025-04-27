@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Hoje estÃ¡ nublado.
-=======
-"Hoje est  chuvoso." 
->>>>>>> feature
+Hoje está nublado.
+
+Hoje está chuvoso.
+
+Primeiro teste de atualização 1
