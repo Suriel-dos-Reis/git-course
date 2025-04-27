@@ -3,3 +3,5 @@ Hoje está nublado.
 Hoje está chuvoso.
 
 Primeiro teste de atualização 1
+
+Segundo teste de atualização 2
