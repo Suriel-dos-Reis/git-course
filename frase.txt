@@ -5,3 +5,5 @@ Hoje está chuvoso.
 Primeiro teste de atualização 1
 
 Segundo teste de atualização 2
+
+Terceiro teste de atualização 3
